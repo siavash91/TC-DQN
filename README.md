@@ -17,4 +17,4 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 
 <img src="http://depts.washington.edu/uwrainlab/wordpress/wp-content/uploads/2020/07/RLScheme-1.png" width="500" height="300">
 
-[![Sample Gif](doc/SC2_youtube.gif)](https://www.youtube.com/watch?v=t1nNkr5XbEA&feature=youtu.be)
+[![](ss.gif)](https://www.youtube.com/watch?v=t1nNkr5XbEA&feature=youtu.be)
