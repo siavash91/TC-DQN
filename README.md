@@ -1,10 +1,10 @@
-# Adaptive Traffic Control with Deep Reinforcement Learning: Towards State-of-the-art and Beyond
+# TC-DQN+: A Novel Approach to Adaptive Traffic Control with Deep Reinforcement Learning
 
 
 In this repository, we provide the details of the implementation of the following manuscript: <br> <br>
 
 
-### [Online Regulation of Unstable LTI Systems from a Single Trajectory](https://128.84.21.199/abs/2006.00125)
+### [Adaptive Traffic Control with Deep Reinforcement Learning: Towards State-of-the-art and Beyond]()
 
 Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 
@@ -17,4 +17,4 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 
 <img src="http://depts.washington.edu/uwrainlab/wordpress/wp-content/uploads/2020/07/RLScheme-1.png" width="500" height="300">
 
-[![](ss.gif)](https://www.youtube.com/watch?v=t1nNkr5XbEA&feature=youtu.be)
+[![Sample Demo](doc/traffic.gif)](https://www.youtube.com/watch?v=t1nNkr5XbEA&feature=youtu.be)
