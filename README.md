@@ -18,6 +18,6 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 <p float="left">
   &emsp;
   <img src="http://depts.washington.edu/uwrainlab/wordpress/wp-content/uploads/2020/07/RLScheme-1.png" width="380" height="220" />
-  &emsp; &emsp; &emsp;
-  <img src=Sce3-Env2-OurMethod.gif width="400" height="250" />
+  &emsp; &emsp;
+  <img src=Sce3-Env2-OurMethod.gif width="380" height="220" />
 </p>
