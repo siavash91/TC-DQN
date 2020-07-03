@@ -2,6 +2,7 @@
 
 <div align="justify"> For the implementation of this work, we have used python 3.7.4, PyTorch 1.2, OpenAI gym, and SUMO 1.3.1. </div> <br>
 
-See the full-version manuscript to find the settings and hyperparameters. The traffic vehicle generation rate is provided as below:
+See the full-version manuscript to find the settings and hyperparameters. <br>
+The traffic vehicle generation rate is provided as below: <br> <br>
 
-&emsp; &emsp; &emsp; &emsp; &emsp; <img src=table.PNG width="500" height="300" />
+&emsp; <img src=table.PNG width="500" height="300" />
