@@ -1,0 +1,60 @@
+<routes>
+    <vType accel="3.0" decel="1.0" id="Car" length="4.0" maxSpeed="3" sigma="0.0" />
+	
+    <route id="route_ns" edges="N-X X-S"/>
+    <route id="route_nw" edges="N-X X-W"/>
+    <route id="route_ne" edges="N-X X-E"/>
+	
+    <route id="route_ew" edges="E-X X-W"/>
+    <route id="route_en" edges="E-X X-N"/>
+    <route id="route_es" edges="E-X X-S"/>
+	
+    <route id="route_sn" edges="S-X X-N"/>
+    <route id="route_se" edges="S-X X-E"/>
+    <route id="route_sw" edges="S-X X-W"/>
+	
+	<route id="route_we" edges="W-X X-E"/>
+    <route id="route_ws" edges="W-X X-S"/>
+    <route id="route_wn" edges="W-X X-N"/>
+	
+    <flow depart="1" id="flow_n_s" route="route_ns" type="Car" begin="0" end="100000" probability="$ns" />
+    <flow depart="1" id="flow_n_w" route="route_nw" type="Car" begin="0" end="100000" probability="$nw" />
+    <flow depart="1" id="flow_n_e" route="route_ne" type="Car" begin="0" end="100000" probability="$ne" />
+	
+    <flow depart="1" id="flow_e_w" route="route_ew" type="Car" begin="0" end="100000" probability="$ew" />
+    <flow depart="1" id="flow_e_n" route="route_en" type="Car" begin="0" end="100000" probability="$en" />
+    <flow depart="1" id="flow_e_s" route="route_es" type="Car" begin="0" end="100000" probability="$es" />
+	
+    <flow depart="1" id="flow_s_n" route="route_sn" type="Car" begin="0" end="100000" probability="$sn" />
+    <flow depart="1" id="flow_s_e" route="route_se" type="Car" begin="0" end="100000" probability="$se" />
+    <flow depart="1" id="flow_s_w" route="route_sw" type="Car" begin="0" end="100000" probability="$sw" />
+	
+    <flow depart="1" id="flow_w_e" route="route_we" type="Car" begin="0" end="100000" probability="$we" />
+    <flow depart="1" id="flow_w_s" route="route_ws" type="Car" begin="0" end="100000" probability="$ws" />
+    <flow depart="1" id="flow_w_n" route="route_wn" type="Car" begin="0" end="100000" probability="$wn" />
+	
+	
+	<personFlow id="person_N" begin="0" end="100000" probability="$pn">
+       <walk from="N-X" to="X-S" speed="1" arrivalPos="-1"/>
+	   <walk from="N-X" to="X-W" speed="1" arrivalPos="-1"/>
+	   <walk from="N-X" to="X-E" speed="1" arrivalPos="-1"/>
+    </personFlow>
+	
+	<personFlow id="person_E" begin="0" end="100000" probability="$pe">
+	   <walk from="E-X" to="X-S" speed="1" arrivalPos="-1"/>
+	   <walk from="E-X" to="X-W" speed="1" arrivalPos="-1"/>
+	   <walk from="E-X" to="X-N" speed="1" arrivalPos="-1"/>
+    </personFlow>
+	
+	<personFlow id="person_S" begin="0" end="100000" probability="$ps">
+	   <walk from="S-X" to="X-N" speed="1" arrivalPos="-1"/>
+	   <walk from="S-X" to="X-W" speed="1" arrivalPos="-1"/>
+	   <walk from="S-X" to="X-E" speed="1" arrivalPos="-1"/>
+    </personFlow>
+	
+	<personFlow id="person_W" begin="0" end="100000" probability="$pw">
+	   <walk from="W-X" to="X-S" speed="1" arrivalPos="-1"/>
+	   <walk from="W-X" to="X-N" speed="1" arrivalPos="-1"/>
+	   <walk from="W-X" to="X-E" speed="1" arrivalPos="-1"/>
+    </personFlow>
+</routes>
