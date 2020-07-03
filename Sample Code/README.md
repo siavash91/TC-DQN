@@ -12,4 +12,4 @@ See the full-version manuscript to find the settings and hyperparameters. </div>
 
 ## Traffic vehicle generation rate <br>
 
-&emsp; <img src=table.PNG width="450" height="250" />
+<img src=table.PNG width="450" height="250" />
