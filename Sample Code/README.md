@@ -7,7 +7,7 @@ See the full-version manuscript to find the settings and hyperparameters. <br>
 
 ## The test environments <br>
 
-<img src=envs.png width="1100" height="180" /> <br>
+<img src=envs.png width="1100" height="150" /> <br>
 
 
 ## Traffic vehicle generation rate <br>
