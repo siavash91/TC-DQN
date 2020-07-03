@@ -4,4 +4,4 @@
 
 See the full-version manuscript to find the settings and hyperparameters. The traffic vehicle generation rate is provided as below:
 
-&emsp; &emsp; <img src=table.PNG width="420" height="250" />
+&emsp; &emsp; &emsp; &emsp; &emsp; <img src=table.PNG width="500" height="300" />
