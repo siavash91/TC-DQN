@@ -4,4 +4,4 @@
 
 See the full-version manuscript to find the settings and hyperparameters. The traffic vehicle generation rate is provided as below:
 
-<img src=Env2-Sc3-Demo.gif width="380" height="220" />
+<img src=table.PNG width="380" height="220" />
