@@ -1,8 +1,3 @@
-## NEC-Traffic ##
-OpenAI Gym Environment for Traffic Control - One Intersection
-By: Siavash Alemzadeh
+## Reproducibility Guide ##
+OpenAI Gym Environment for Traffic Control
 
-
-## Comments
-
-Play with rewards + Real simple intersection
