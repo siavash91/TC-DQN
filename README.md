@@ -26,7 +26,7 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 
 ## TC-DQN+ vs Self-Organizing Traffic Light
 
-TC-DQN+ &emsp; &emsp; &emsp; &emsp; SOTL
+<pre>   **TC-DQN+**                                     **SOTL** </pre>
 
 <p float="left">
   &emsp;
@@ -44,9 +44,3 @@ TC-DQN+ &emsp; &emsp; &emsp; &emsp; SOTL
   &emsp; &emsp;
   <img src=Sce3-Env3-FT.gif width="380" height="220" />
 </p> <br>
-
-<pre>
-hello, this is
-   just an     example
-....
-</pre>
