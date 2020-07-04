@@ -26,7 +26,7 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 
 ## TC-DQN+ vs Self-Organizing Traffic Light
 
-&emsp; &emsp; **TC-DQN+** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **SOTL**
+&ensp; &emsp; **TC-DQN+** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **SOTL**
 
 <p float="left">
   &emsp;
