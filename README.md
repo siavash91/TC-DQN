@@ -28,7 +28,7 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 
 <p float="left">
   &emsp;
-  <img src=Sce1-Env1-TD-DQN.gif width="380" height="220" />
+  <img src=Sce1-Env1-TC-DQN.gif width="380" height="220" />
   &emsp; &emsp;
   <img src=Sce1-Env1-SOTL.gif width="380" height="220" />
 </p> <br>
@@ -42,5 +42,3 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
   &emsp; &emsp;
   <img src=Sce3-Env3-FT.gif width="380" height="220" />
 </p> <br>
-
-Sce1-Env1-SOTL.gif
