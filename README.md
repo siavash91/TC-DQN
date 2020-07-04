@@ -19,7 +19,7 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
   &emsp;
   <img src="http://depts.washington.edu/uwrainlab/wordpress/wp-content/uploads/2020/07/RLScheme-1.png" width="380" height="220" />
   &emsp; &emsp;
-  <img src=Env2-Sc3-Demo.gif width="380" height="220" />
+  <img src=Demos/Env2-Sc3-Demo.gif width="380" height="220" />
 </p> <br> <br>
 
 <div align="justify"> Case-studies are provided wherein the benefits of our method as well as comparisons with some traditional architectures in ATSC are simulated (from real traffic scenarios). </div>
