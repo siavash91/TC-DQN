@@ -28,13 +28,13 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 
 <p float="left">
   &emsp;
-  <img src=Sce1-Env1-TC-DQN.gif width="380" height="220" />
+  <img src=Scen1-Env1-TC-DQN.gif width="380" height="220" />
   &emsp; &emsp;
   <img src=Sce1-Env1-SOTL.gif width="380" height="220" />
 </p> <br>
 
 
-## TC-DQN+ vs Self-Organizing Traffic Light
+## TC-DQN+ vs Fixed-Time Traffic Plan
 
 <p float="left">
   &emsp;
