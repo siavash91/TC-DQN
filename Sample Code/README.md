@@ -11,9 +11,9 @@
 
 <p float="left">
   &emsp;
-  <img src=table.PNG width="450" height="280" />
+  <img src=../Figures/table.PNG width="450" height="280" />
   &emsp; &emsp; &emsp; &emsp;
-  <img src=final_plot.png width="450" height="280" />
+  <img src=../Figures/final_plot.png width="450" height="280" />
 </p> <br>
 
 Please see the full-version manuscript to find more about the problem settings and implementation details.
