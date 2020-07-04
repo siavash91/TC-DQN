@@ -18,5 +18,5 @@ See the full-version manuscript to find the settings and hyperparameters. </div>
   &emsp;
   <img src=table.PNG width="450" height="250" />
   &emsp; &emsp;
-  <img src=final_plot.png width="380" height="220" />
+  <img src=final_plot.png width="420" height="260" />
 </p> <br>
