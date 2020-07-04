@@ -21,3 +21,5 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
   &emsp; &emsp;
   <img src=Env2-Sc3-Demo.gif width="380" height="220" />
 </p>
+
+<div align="justify"> Case-studies are provided wherein the benefits of our method as well as comparisons with some traditional architectures in ATSC are simulated (from real traffic scenarios). </div> <br>
