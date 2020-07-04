@@ -26,7 +26,7 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 
 ## TC-DQN+ vs Self-Organizing Traffic Light
 
-&nbsp; &emsp; **TC-DQN+** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **SOTL**
+&nbsp; &emsp; **TC-DQN+** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; **SOTL**
 
 <p float="left">
   &emsp;
@@ -37,6 +37,8 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 
 
 ## TC-DQN+ vs Fixed-Time Traffic Plan
+
+&nbsp; &emsp; **TC-DQN+** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; **FT**
 
 <p float="left">
   &emsp;
