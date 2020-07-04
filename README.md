@@ -1,4 +1,4 @@
-# TC-DQN+: A Novel Approach to Adaptive Traffic Control with Deep Reinforcement Learning
+# TC-DQN<sup>+</sup>: A Novel Approach to Adaptive Traffic Control with Deep Reinforcement Learning
 
 
 In this repository, we provide the details of the implementation of the following manuscript: <br> <br>
