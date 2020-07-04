@@ -44,3 +44,8 @@ TC-DQN+ &emsp; &emsp; &emsp; &emsp; SOTL
   &emsp; &emsp;
   <img src=Sce3-Env3-FT.gif width="380" height="220" />
 </p> <br>
+
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
