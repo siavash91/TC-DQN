@@ -23,3 +23,24 @@ Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 </p> <br>
 
 <div align="justify"> Case-studies are provided wherein the benefits of our method as well as comparisons with some traditional architectures in ATSC are simulated (from real traffic scenarios). </div> <br>
+
+## TC-DQN+ vs Self-Organizing Traffic Light
+
+<p float="left">
+  &emsp;
+  <img src=Sce1-Env1-TD-DQN.gif width="380" height="220" />
+  &emsp; &emsp;
+  <img src=Sce1-Env1-SOTL.gif width="380" height="220" />
+</p> <br>
+
+
+## TC-DQN+ vs Self-Organizing Traffic Light
+
+<p float="left">
+  &emsp;
+  <img src=Sce3-Env3-TC-DQN.gif width="380" height="220" />
+  &emsp; &emsp;
+  <img src=Sce3-Env3-FT.gif width="380" height="220" />
+</p> <br>
+
+Sce1-Env1-SOTL.gif
