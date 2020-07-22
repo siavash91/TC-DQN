@@ -4,7 +4,7 @@
 In this repository, we provide the details of the implementation of the following manuscript: <br> <br>
 
 
-### Adaptive Traffic Control with Deep RL: Towards State-of-the-art and Beyond
+### [Adaptive Traffic Control with Deep RL: Towards State-of-the-art and Beyond](https://arxiv.org/abs/2007.10960)
 
 Siavash Alemzadeh, Ramin Moslemi, Ratnesh Sharma, Mehran Mesbahi <br> <br>
 
